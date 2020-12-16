@@ -5,6 +5,8 @@ The Social Distancing Cow Graphic is a license-free open-source graphic created 
 
 It was created from multiple open-source SVG clipart files in Inkscape using all vector-based graphics, so it is easy to edit, tweak, and rearrange the parts of the graphic.
 
+![Social Distancing Cow Graphic .PNG](SocialDistancingCow_20200921.png)
+
 ## Sources
 
 It was created from the following open-source clipart files, all from [Openclipart.org](https://openclipart.org/), reused under the [Creative Commons Zero 1.0 Public Domain License](http://creativecommons.org/publicdomain/zero/1.0/):
